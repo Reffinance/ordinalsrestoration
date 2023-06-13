@@ -1,0 +1,143 @@
+.CopyButton_root__l9SDH {
+    fill: var(--gray-500);
+    color: var(--gray-500);
+    transition: all .2s ease;
+    display: flex;
+    align-items: center;
+    height: 32px;
+    cursor: pointer;
+    width: 100%
+}
+
+.CopyButton_root__l9SDH:hover {
+    fill: #fff;
+    color: #fff;
+    opacity: 1
+}
+
+.CopyButton_icon__oMAVe {
+    min-height: 24px;
+    min-width: 24px;
+    height: 24px;
+    fill: inherit
+}
+
+.CopyButton_copyLabel__BLV2w {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: inherit;
+    text-align: center
+}
+
+.CopyButton_copied__j85Yh {
+    line-height: 32px;
+    color: var(--primary-700);
+    text-align: center;
+    width: 100%
+}
+
+.Seed_root__iw8JK {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%
+}
+
+.Seed_grid__qu9kI {
+    margin-top: 32px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-gap: 11px;
+    gap: 11px;
+    margin-bottom: 34px;
+    width: 100%
+}
+
+.Seed_word__OOj7e {
+    background: var(--dark-grey-2);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    height: 32px
+}
+
+.Seed_wordNumber__hkpvV {
+    max-width: 32px;
+    text-align: center;
+    padding: 0 10.5px
+}
+
+.Seed_wordLabel__bqqYa {
+    padding-left: 16px
+}
+
+.Seed_copyButton__g2S89 {
+    color: #fff !important
+}
+
+.PasswordModalShowSeed_root__hAvFw {
+    width: 100%
+}
+
+.PasswordModalShowSeed_title__BagqG {
+    margin-top: 24px;
+    color: var(--gray-300)
+}
+
+.PasswordModalShowSeed_actionButton__cIREJ {
+    margin-top: 42px;
+    width: 100%
+}
+
+.PasswordModalShowSeed_path__GjcZ1 {
+    margin-top: 32px;
+    color: var(--light-grey-9);
+    word-break: break-word
+}
+
+.PasswordModalShowSeed_advanced__LHVY2 {
+    margin-top: 32px;
+    color: var(--light-grey-9);
+    cursor: pointer
+}
+
+.PasswordModalShowSeed_derivation__weN1Q {
+    background: var(--dark-grey-4);
+    margin-top: 24px;
+    padding: 4px 8px;
+    border-radius: 4px
+}
+
+.PasswordModal_root__Oz8xL {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    max-width: 100vw;
+    text-align: center
+}
+
+.PasswordModal_title__GdkRS {
+    margin-top: 24px;
+    color: var(--gray-300)
+}
+
+.PasswordModal_description__dpDhu {
+    margin-top: 8px;
+    color: var(--gray-500)
+}
+
+.PasswordModal_actions__hoDqG {
+    margin-top: 24px;
+    width: 100%
+}
+
+.PasswordModal_actionButton__VvByK {
+    width: 100%
+}
+
+.PasswordModal_input__Es9Bv {
+    margin-bottom: 10px
+}

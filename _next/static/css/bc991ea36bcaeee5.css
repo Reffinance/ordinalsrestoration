@@ -1,0 +1,37 @@
+.Modal_root__KtId3 {
+    min-height: 100vh;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+.Modal_root__KtId3:focus-visible {
+    outline: none
+}
+
+.Modal_modal__TGCNH {
+    overflow: scroll
+}
+
+.Modal_backdrop___BNEv {
+    -webkit-backdrop-filter: blur(8px) !important;
+    backdrop-filter: blur(8px) !important;
+    background: rgba(52, 64, 84, .7) !important
+}
+
+.Modal_body__gMQPG {
+    overflow: hidden;
+    cursor: default;
+    background: #000;
+    border-radius: 12px;
+    max-width: 100%
+}
+
+@media only screen and (max-width:540px) {
+    .Modal_root__KtId3 {
+        align-items: normal
+    }
+}
